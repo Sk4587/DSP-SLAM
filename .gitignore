@@ -30,3 +30,4 @@ Thirdparty/Pangolin
 Thirdparty/eigen
 Thirdparty/mmdetection3d
 Thirdparty/opencv
+*.zip
